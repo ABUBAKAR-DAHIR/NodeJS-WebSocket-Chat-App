@@ -116,3 +116,12 @@ Built by **Abubakar Dahir Hassan**
 ## 📄 License
 
 MIT License
+
+---
+
+## 📬 Contact
+
+- **GitHub:** [MyGitHub](https://github.com/abubakar-dahir)
+- **LinkedIn:** [MyLinkedIn](https://www.linkedin.com/in/abubakar-hassan-2420663a3/)
+- **Email:** [MyEmail](mailto:abubakardahirhassan@email.com)
+
